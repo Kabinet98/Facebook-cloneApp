@@ -1,0 +1,9 @@
+.Widgets{
+    flex:0.5;
+}
+
+@media screen and (max-width:980px){
+    .Widgets{
+        display:none;
+    }
+}
